@@ -1,55 +1,40 @@
-⚓ 김동건 (Dong-gun Kim)
-Naval Architect & AI Researcher | Pusan National University
+⚓ 김동건 (Dong-geon Kim)
+Naval Architect & AI Researcher | Senior at Pusan National University
 
-조선해양공학의 물리적 도메인 지식과 최첨단 AI 기술을 결합하여, 산업 현장의 지능형 신뢰성 진단 솔루션을 연구하는 예비 엔지니어입니다.
-
-
-
-
-🔍 Research & Focus
-PHM (Prognostics and Health Management): 베어링, 기어박스 등 회전체 부품의 고장 진단 및 수명 예측 모델링
-
-LLM (Large Language Models): 대규모 언어 모델의 추론 능력을 공학 데이터와 결합한 지능형 진단 시스템 연구
-
-Physical-AI: 물리 법칙과 AI 알고리즘을 융합하여 실제 환경에서 작동 가능한 고신뢰성 인공지능 구축
-
-
-
-
-🧪 Academic & Project Experience
-스마트선박제어 연구실 (PNU) | 학부연구생 (2023.08 - 현재)
-
-해미르 (Haemir, PNU 자율운항선박 동아리) | 핵심 멤버 (2023.03 - 현재)
-
-날샘 (Nalsaem, PNU 자율운항선박 동아리) | 멤버 (2021.03 - 2022.02)
-
-
-
+자율운항 및 스마트 선박 제어 기술을 연구하며, 조선해양 도메인 지식에 AI(PHM, LLM)를 결합하여 산업 현장의 지능화를 꿈꾸는 엔지니어입니다.
 
 🏆 Honors & Awards
-최우수상 (2st Prize) - 2024 한국소음진동공학회(KSNVE) AI Challenge (Normal-Track)
+Grand Prize (2st) - 2024 KSNVE AI Challenge (Crazy-Track)
 
-최우수상 (2st Prize) - 2024 한국소음진동공학회(KSNVE) AI Challenge (Crazy-Track)
+Grand Prize (2st) - 2024 KSNVE AI Challenge (Normal-Track)
 
-해양수산부장관상 (2nd Prize) - 대학조선학회 주관 전국 KABOAT 대회
+Minister of Oceans and Fisheries Award (2nd) - KABOAT Competition (Organized by SNAK)
 
-우수상 (2nd Prize) - 2025 동계 자율운항 경진대회
+Excellence Award (2nd) - 2025 Winter Autonomous Navigation Competition
 
-국립부산과학관장상 (2nd Prize) - 2025 동계 자율운항 경진대회
+Director’s Award (2nd) - National Busan Science Museum (2025 Winter Autonomous Navigation)
+
+🧪 Research & Experience
+ISV Lab, PNU | Undergraduate Researcher (2023.08 – Present)
+
+
+Haemir (PNU Autonomous Ship Club) | Core Member (2023.03 – Present)
 
 
 
+Nalsaem (PNU Autonomous Ship Club) | Member (2021.03 – 2022.02)
 
-🛠 Tech Stack
-Languages: Python, MATLAB (Data Visualization)
+
+🔍 Research Interest
+PHM (Prognostics and Health Management): 소음·진동 데이터를 활용한 산업용 장비의 고장 예지 및 건전성 관리 알고리즘
+
+LLM (Large Language Models): 엔지니어링 텍스트 데이터의 추론 능력을 활용한 지능형 의사결정 보조 시스템
+
+Pysical-AI: 자율운항 선박
+
+💻 Tech Stack
+Languages: Python, MATLAB, C++
 
 AI/ML: PyTorch, TensorFlow, Scikit-learn, Hugging Face
 
-Mathematics: 공학미적분학, 선형대수학, 확률 및 통계, 응용수학, 수치해석
-
-Engineering: 구조역학, 유체역학, 통계적 품질 관리, 선박 설계
-
-📫 Contact
-Univ: Pusan National University (PNU)
-
-Email: rlaehdrjs031@gmail.com
+Engineering: Structural/Fluid Mechanics, Ship Design, Statistical Quality Control
