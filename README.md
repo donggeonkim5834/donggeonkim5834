@@ -1,41 +1,43 @@
-👋 안녕하세요, [이름]입니다!
-부산대학교 조선해양공학과 4학년 | 도메인 지식과 AI를 잇는 엔지니어
+⚓ 김동건 (Dong-gun Kim)
+Naval Architect & AI Researcher | Pusan National University
 
-저는 물리적인 공학 원리와 최첨단 인공지능 기술을 결합하여, 산업 현장의 문제를 해결하는 데 열정을 가진 예비 엔지니어입니다. 조선해양공학이라는 탄탄한 도메인 지식 위에 LLM과 PHM이라는 IT 무기를 더해가고 있습니다.
+조선해양공학의 물리적 도메인 지식과 최첨단 AI 기술을 결합하여, 산업 현장의 지능형 신뢰성 진단 솔루션을 연구하는 예비 엔지니어입니다.
 
-🛠️ 공학적 기초와 AI의 만남
-전통적인 공학 커리큘럼을 통해 물리적 세계를 이해하는 법을 배웠고, 이를 데이터로 해석하기 위해 스스로 AI 분야를 개척해왔습니다.
+🔍 Research & Focus
+PHM (Prognostics and Health Management): 베어링, 기어박스 등 회전체 부품의 고장 진단 및 수명 예측 모델링
 
-Engineering Foundation: 역학(유체/고체), 통계학, 선형대수학, 응용수학 등 공학의 기본기를 다졌습니다. 이를 통해 단순한 데이터 분석을 넘어 물리적 인과관계를 고려한 AI 모델링이 가능합니다.
+LLM (Large Language Models): 대규모 언어 모델의 추론 능력을 공학 데이터와 결합한 지능형 진단 시스템 연구
 
-Self-Driven AI Research: 학과 커리큘럼에 안주하지 않고, 최신 AI 논문과 기술 스택을 독학하며 연구 역량을 쌓고 있습니다.
+Physical-AI: 물리 법칙과 AI 알고리즘을 융합하여 실제 환경에서 작동 가능한 고신뢰성 인공지능 구축
 
-🔍 관심 연구 분야
-📉 PHM(예후 및 건강 관리)
-기계 장비의 신뢰성을 판단하고 고장을 예측하는 **'산업용 AI'**에 집중합니다. 복잡한 선박 및 해양 시스템의 건전성을 실시간으로 진단하고, 사고를 미연에 방지하는 고정밀 예측 모델을 만드는 것이 목표입니다.
+🧪 Academic & Project Experience
+스마트선박제어 연구실 (PNU) | 학부연구생 (2023.08 - 현재)
 
-🤖 LLM(대규모 언어 모델)
-대규모 언어 모델이 가진 추론 능력을 공학 데이터와 결합하는 데 관심이 많습니다. 방대한 기술 문서와 센서 데이터를 LLM으로 분석하여, 전문가의 의사결정을 돕는 지능형 엔지니어링 인터페이스를 연구합니다.
+해미르 (Haemir, PNU 자율운항선박 동아리) | 핵심 멤버 (2023.03 - 현재)
 
-🚀 저의 강점은 이렇습니다
-도메인 융합 능력: 숫자 뒤에 숨겨진 기계적 원리를 이해합니다. 현장의 물리적 현상을 알고리즘으로 치환할 수 있는 능력을 갖추었습니다.
+날샘 (Nalsaem, PNU 자율운항선박 동아리) | 멤버 (2021.03 - 2022.02)
 
-자기주도적 학습자: 필요한 지식은 스스로 찾아 학습하며, 새로운 기술 변화에 빠르게 적응합니다. (독학으로 다진 AI 프로젝트들이 이를 증명합니다.)
+🏆 Honors & Awards
+최우수상 (1st Prize) - 2024 한국소음진동공학회(KSNVE) AI Challenge (Normal-Track)
 
-신뢰성 중심의 사고: 중공업 및 조선 분야에서 가장 중요한 '신뢰성(Reliability)'을 AI 연구의 핵심 가치로 삼습니다.
+최우수상 (1st Prize) - 2024 한국소음진동공학회(KSNVE) AI Challenge (Crazy-Track)
 
-💻 기술 도구 상자
-사용 언어: Python, MATLAB, C++
+해양수산부장관상 (1st/2nd Prize) - 대학조선학회 주관 전국 KABOAT 대회
+
+우수상 (2nd Prize) - 2025 동계 자율운항 경진대회
+
+국립부산과학관장상 (2nd Prize) - 2025 동계 자율운항 경진대회
+
+🛠 Tech Stack
+Languages: Python, MATLAB (Data Visualization)
 
 AI/ML: PyTorch, TensorFlow, Scikit-learn, Hugging Face
 
-Domain: 구조 역학, 유체 역학, 통계적 품질 관리, 선박 설계
+Mathematics: 공학미적분학, 선형대수학, 확률 및 통계, 응용수학, 수치해석
 
-Mathematics: 선형대수학, 확률 및 통계, 수치해석
+Engineering: 구조역학, 유체역학, 통계적 품질 관리, 선박 설계
 
-📫 연락 및 연결
-산업 AI, 조선해양 기술, 혹은 데이터 기반의 문제 해결에 대해 이야기 나누는 것을 즐깁니다!
+📫 Contact
+Univ: Pusan National University (PNU)
 
-소속: 부산대학교 조선해양공학과 4학년
-
-Email: [이메일 주소 입력]
+Email: rlaehdrjs031@gmail.com
