@@ -43,7 +43,7 @@
     * `PyTorch`, `TensorFlow`, `Scikit-learn`, `Hugging Face`
 * **Mathematics & Engineering**
     * **Math:** 선형대수학, 확률 및 통계, 응용수학, 수치해석
-    * **Domain:** 구조역학, 유체역학, 통계적 품질 관리, 선박 설계
+  
 
 ---
 
