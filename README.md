@@ -1,4 +1,4 @@
-# ⚓ 김동건 (Dong-gun Kim)
+# ⚓ 김동건 (Dong-Geon Kim)
 ### Naval Architect & AI Researcher | Pusan National University
 > **조선해양공학의 도메인 지식과 최첨단 AI 기술을 결합하여, 산업 현장의 지능형 신뢰성 진단 솔루션을 연구합니다.**
 
